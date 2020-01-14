@@ -1,4 +1,6 @@
 *.txt
+token
+aws-auth-patch.yml
 .DS_Store
 .env
 .flaskenv
