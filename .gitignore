@@ -2,12 +2,14 @@
 token
 aws-auth-patch.yml
 .DS_Store
-.env
+venv
+/venv
+*.venv
 .flaskenv
 *.pyc
 *.pyo
-env/
-env*
+# env/
+# env*
 dist/
 build/
 *.egg
